@@ -1,7 +1,6 @@
 from tkinter import *
-# by Canvas I can't save image, so i use PIL
 import PIL
-from PIL import Image, ImageDraw
+from PIL import ImageDraw
 
 
 def save():
